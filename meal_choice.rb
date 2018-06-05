@@ -25,9 +25,9 @@ end
 
 # call your methods here
 
-breakfast
-lunch
-dinner
+breakfast("waffles")
+lunch("sandwiches")
+dinner("sushi)")
 
 # Call your methods without any arguments here
 puts snacks
