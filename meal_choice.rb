@@ -27,7 +27,7 @@ end
 
 breakfast("waffles")
 lunch("sandwiches")
-dinner("sushi)")
+dinner("sushi")
 breakfast
 lunch
 dinner
