@@ -28,6 +28,9 @@ end
 breakfast("waffles")
 lunch("sandwiches")
 dinner("sushi)")
+breakfast
+lunch
+dinner
 
 # Call your methods without any arguments here
 puts snacks
