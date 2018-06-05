@@ -5,6 +5,15 @@ end
 
 # Define breakfast, lunch and dinner methods that return the meal choice passed into them with a default to your favorite.
 
+def breakfast(food="Frosted Flakes")
+  puts "Morning is the best time for #{food}."
+end
+
+def lunch(food="burritos")
+  puts "Lunch is the best time for #{food}."
+end
+
+
 
 
 # Call the methods with puts and your own arguments here. Like this:
